@@ -1,0 +1,19 @@
+.box {
+    padding: 10px;
+    background: #fff;
+    border-radius: .2em;
+    box-sizing: border-box;
+}
+.info {
+  background-color: white;
+}
+.tabs {
+	background-color: #004d40;
+}
+.buttonup {
+width:88px; 
+height:118px;
+position:fixed;
+bottom:20px;
+right:50px;
+}
